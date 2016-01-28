@@ -17,14 +17,14 @@
     "extra": {
         "component": {
             "scripts": [
-                "js/jquery.animsition.js",
-                "js/jquery.animsition.min.js"
+                "js/animsition.js",
+                "js/animsition.min.js"
             ],
             "files": [
                 "css/animsition.css",
                 "css/animsition.min.css",
-                "js/jquery.animsition.js",
-                "js/jquery.animsition.min.js"
+                "js/animsition.js",
+                "js/animsition.min.js"
             ],
             "shim": {
                 "deps": ["jquery"]
