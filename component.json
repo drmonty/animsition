@@ -2,7 +2,7 @@
     "name": "drmonty-animsition",
     "repo": "drmonty/animsition",
     "description": "A simple and easy jQuery plugin for CSS animated page transitions.",
-    "version": "3.5.2",
+    "version": "3.6.0",
     "homepage": "http://git.blivesta.com/animsition",
     "license": "MIT",
     "dependencies": {
