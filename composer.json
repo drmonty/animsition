@@ -9,9 +9,6 @@
         "name": "Yasuyuki Enomoto"
     },
     "require": {
-        "robloach/component-installer": "*"
-    },
-    "require": {
         "components/jquery": ">= 1.11.0"
     },
     "extra": {
